@@ -1,5 +1,13 @@
 class Rover {
-   // Write code here!
+   // represents Mars rover
+   // receiveMessage handles various types of commands it receives and updates the rover properties
+   constructor(position, mode, generatorWatts) {
+
+   }
+
+   receiveMessage() {
+
+   }
 }
 
 module.exports = Rover;
